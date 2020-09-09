@@ -1,0 +1,7 @@
+﻿  DplReader.cpp
+C:\Users\achme\Documents\Backup Folder\Computational Mechanics Msc\ΔΙΠΛΩΜΑΤΙΚΗ\codes\c++\DplReader\DplReader\DplReader.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 242 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DplReader.vcxproj -> C:\Users\achme\Documents\Backup Folder\Computational Mechanics Msc\ΔΙΠΛΩΜΑΤΙΚΗ\codes\c++\DplReader\Release\DplReader.exe
